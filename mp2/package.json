@@ -1,5 +1,5 @@
 {
-  "name": "The Art Institute of Chicago Digital Collections Browser",
+  "name": "mp2",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://LiuyuanZhi2003.github.io/mp2",
@@ -43,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "@types/react-router-dom": "^5.3.3"
   }
 }
