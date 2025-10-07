@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import { api, FIELDS, getCached } from '../api/aic';
 import { ArtItem } from '../types';
 import { ListContext } from '../context/ListContext';
